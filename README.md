@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/qrtx5gnltdklksw1?svg=true)](https://ci.appveyor.com/project/kiwirevol/patterns1)
